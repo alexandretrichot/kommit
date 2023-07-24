@@ -5,7 +5,7 @@ func getTypes() []string {
 }
 
 func getScopes() []string {
-	commits, err := getCommits(500)
+	commits, err := getCommits(200)
 	if err != nil {
 		return nil
 	}
