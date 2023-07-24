@@ -1,4 +1,4 @@
-module kommit
+module github.com/alexandretrichot/kommit
 
 go 1.20
 
